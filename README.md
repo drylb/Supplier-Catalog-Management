@@ -23,6 +23,8 @@ A React application for managing supplier catalogs, allowing users to upload cat
    npm start
    ```
 ## Testing
+
+1. To run tests:
    ```
-   npm start
+   npm test
    ```
